@@ -16,6 +16,8 @@
 		B1800C831FDE81300008EF4A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B1800C821FDE81300008EF4A /* main.m */; };
 		B1800C8D1FDE81300008EF4A /* animateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B1800C8C1FDE81300008EF4A /* animateTests.m */; };
 		B1800C981FDE81310008EF4A /* animateUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B1800C971FDE81310008EF4A /* animateUITests.m */; };
+		B1800CA61FDE81410008EF4A /* WechatIMG3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B1800CA51FDE81400008EF4A /* WechatIMG3.jpeg */; };
+		B1800CA91FDE81A60008EF4A /* AlpView.m in Sources */ = {isa = PBXBuildFile; fileRef = B1800CA81FDE81A60008EF4A /* AlpView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,9 @@
 		B1800C931FDE81300008EF4A /* animateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = animateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1800C971FDE81310008EF4A /* animateUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = animateUITests.m; sourceTree = "<group>"; };
 		B1800C991FDE81310008EF4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1800CA51FDE81400008EF4A /* WechatIMG3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WechatIMG3.jpeg; sourceTree = "<group>"; };
+		B1800CA71FDE81A60008EF4A /* AlpView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlpView.h; sourceTree = "<group>"; };
+		B1800CA81FDE81A60008EF4A /* AlpView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlpView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +112,9 @@
 				B1800C711FDE81300008EF4A /* AppDelegate.m */,
 				B1800C731FDE81300008EF4A /* ViewController.h */,
 				B1800C741FDE81300008EF4A /* ViewController.m */,
+				B1800CA71FDE81A60008EF4A /* AlpView.h */,
+				B1800CA81FDE81A60008EF4A /* AlpView.m */,
+				B1800CA51FDE81400008EF4A /* WechatIMG3.jpeg */,
 				B1800C761FDE81300008EF4A /* Main.storyboard */,
 				B1800C7C1FDE81300008EF4A /* Assets.xcassets */,
 				B1800C7E1FDE81300008EF4A /* LaunchScreen.storyboard */,
@@ -244,6 +252,7 @@
 				B1800C801FDE81300008EF4A /* LaunchScreen.storyboard in Resources */,
 				B1800C7D1FDE81300008EF4A /* Assets.xcassets in Resources */,
 				B1800C781FDE81300008EF4A /* Main.storyboard in Resources */,
+				B1800CA61FDE81410008EF4A /* WechatIMG3.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +279,7 @@
 			files = (
 				B1800C7B1FDE81300008EF4A /* animate.xcdatamodeld in Sources */,
 				B1800C751FDE81300008EF4A /* ViewController.m in Sources */,
+				B1800CA91FDE81A60008EF4A /* AlpView.m in Sources */,
 				B1800C831FDE81300008EF4A /* main.m in Sources */,
 				B1800C721FDE81300008EF4A /* AppDelegate.m in Sources */,
 			);
